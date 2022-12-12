@@ -14,7 +14,7 @@
     "@tomtom-international/web-sdk-maps": "^5.45.0",
     "@tomtom-international/web-sdk-services": "^5.45.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.8.11",
     "xmlhttprequest": "^1.8.0"
   }
